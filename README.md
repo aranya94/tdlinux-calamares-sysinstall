@@ -1,1 +1,1 @@
-# tdlinux-calamares-sysinstall
+# Autostart calamares system installer
